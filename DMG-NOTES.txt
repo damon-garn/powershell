@@ -1,0 +1,2 @@
+The scripts should be written in Notepad++
+Go to Edit, EOL Conversion, convert to Unix before creating an ISO
